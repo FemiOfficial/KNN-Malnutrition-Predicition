@@ -1,0 +1,26 @@
+.second_part, .third_part, .fourth_part{
+  display: none;
+}
+.diagnosis-module{
+  box-shadow: 0px 1px 5px #0ec15b;
+  border-radius: 2px 2px 5px 5px;
+  padding-bottom: 30px;
+  margin-top: 80px;
+  margin-left: 0px;
+  padding-top: 20px;
+  padding-left: 40px;
+  padding-bottom: 80px;
+  padding-right: 40px;
+
+}
+.diagnosis-module h5{
+  font-size: 19px;
+}
+.radio-inline{
+  font-size: 18px;
+}
+input[type=radio]{
+  width: 20px;
+  height: 20px;
+  padding: 15px;
+}
